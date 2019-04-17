@@ -36,6 +36,11 @@ figcaption {
 }
 
 /* ID selector (apply to one unique element per page) */
-#logo {/*select element with id = "logo"*/
+#logo { /*selects element with id = "logo"*/
   background: aqua;
+}
+
+#logo h1 { /*selects <h1> if inside the id = "logo" */
+  
+}
 }
